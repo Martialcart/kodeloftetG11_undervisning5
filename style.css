@@ -1,5 +1,6 @@
 /*HEADER*/
 header {
+    display: flex;
     justify-content: end;
 }
 .card {
